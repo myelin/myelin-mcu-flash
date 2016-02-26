@@ -11,4 +11,8 @@ included into a flash driver.
 Hopefully this will come in handy for someone, for writing flash drivers, bootloaders, or flash/EEPROM access
 code for these chips in future!  If you use this code, please let me know.
 
+Blog posts:
+
+- <a href="http://www.myelin.co.nz/post/2016/2/15/#201602151">Working toward being able to flash Kinetis E chips with OpenOCD, using USBDM flash routines</a>
+
 Phillip Pearson <pp@myelin.co.nz>
